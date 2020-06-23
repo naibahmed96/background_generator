@@ -36,24 +36,3 @@ h3 {
     font-weight: 900;
     color: #222;
 }
-
-form input {
-    padding: 10px;
-    outline: none;
-    font-size: 1.1rem;
-    border: 0;
-    margin-left: 10px;
-}
- 
-form input[type='submit'] {
-    background-color: #0240dd;
-    color: white;
-    border: 0;
-    width: 150px;
-    
-}
-
-form input[type='submit']:hover {
-    opacity: 0.9;
-    box-shadow: 2px 4px 4px rgb(2, 2, 110);
-}
