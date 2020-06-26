@@ -1,0 +1,19 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "changes body background with css3 property linear-gradient()",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naibahmed96/background_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naibahmed96/background_generator/issues"
+  },
+  "homepage": "https://github.com/naibahmed96/background_generator#readme"
+}
